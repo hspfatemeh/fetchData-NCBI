@@ -3,6 +3,7 @@
 
 # In[2]:
 
+# 113 بودن داده های دریافت شده بهترین ساختمان داده استک میباشد؟؟ --از خط order به دلیل
 
 from Bio import Entrez
 from Bio import SeqIO
